@@ -1,2 +1,2 @@
-print("First Git sample using ML")
 print("Using logistic regression")
+print("using linear regression")
